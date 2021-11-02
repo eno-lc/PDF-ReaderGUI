@@ -1,0 +1,35 @@
+
+    .background {
+        -fx-background-size: 1200 900;
+        -fx-background-radius: 0 0 18 18;
+        -fx-border-radius: 0 0 18 18;
+        -fx-background-color: #FC3D44;
+    }
+    .xBtn{
+        -fx-background-color: grey;
+    }
+
+    .xBtn:hover{
+        -fx-background-color: red;
+
+    }
+
+    .xBtn1{
+        -fx-background-color: grey;
+    }
+
+
+    .xBtn1:hover{
+        -fx-background-color: lightgray;
+
+    }
+
+
+
+    .titleBar{
+        -fx-background-color:  #FF7F7F;
+
+    }
+
+
+
